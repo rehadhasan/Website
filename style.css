@@ -1,0 +1,20 @@
+body{
+    margin:0px;
+    font-family: 'Poppins', sans-serif;
+}
+#website{
+    background-color: #FFFFFF;
+    background-image: url(image/top-banner.png);
+    background-repeat:no-repeat ;
+    margin: 0px;
+}
+.container{
+    width: 1300px;
+    margin: auto;
+
+}
+.mywebsite{
+    margin: 0px;
+}
+
+
